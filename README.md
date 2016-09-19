@@ -1,4 +1,4 @@
-QA Automation Code Challenge #6 (Crawler):
+QA Java Automation Code Challenge #6 (Crawler):
 
 Write a crawler that will automatically navigate to every page on the site.
 
